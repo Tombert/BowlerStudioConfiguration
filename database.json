@@ -1,9 +1,15 @@
 {
+  "workspace": {
+    "https://github.com/Tombert/cadtest.git": [
+      "Tombert/cadtest",
+      "1698791313521"
+    ]
+  },
   "studio-open-web": {},
-  "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+  "studio-open-git": {
+    "https://github.com/Tombert/cadtest.git:cadtest.clj": [
+      "https://github.com/Tombert/cadtest.git",
+      "cadtest.clj"
+    ]
   }
 }
