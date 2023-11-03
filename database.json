@@ -21,7 +21,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Tombert/elevatorattempt1.git:elevatorattempt1.xml": [
+      "https://github.com/Tombert/elevatorattempt1.git",
+      "elevatorattempt1.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
