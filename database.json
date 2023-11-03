@@ -4,6 +4,10 @@
       "Tombert/test2",
       "1698980851210"
     ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "1698987539709"
+    ],
     "https://github.com/Tombert/asdfasdf.git": [
       "Tombert/asdfasdf",
       "1698803625398"
@@ -26,6 +30,14 @@
     "printCSG": true
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/Tombert/elevatorattempt1.git:elevatorattempt1Walk.groovy": [
+      "https://github.com/Tombert/elevatorattempt1.git",
+      "elevatorattempt1Walk.groovy"
+    ],
     "https://github.com/Tombert/elevatorattempt1.git:elevatorattempt1.xml": [
       "https://github.com/Tombert/elevatorattempt1.git",
       "elevatorattempt1.xml"
