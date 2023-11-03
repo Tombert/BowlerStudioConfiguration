@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Tombert/test2.git": [
+      "Tombert/test2",
+      "1698980851210"
+    ],
     "https://github.com/Tombert/asdfasdf.git": [
       "Tombert/asdfasdf",
       "1698803625398"
