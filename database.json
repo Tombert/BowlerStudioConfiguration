@@ -30,25 +30,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/carl-the-hexapod.git:DefaultDhSolver.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "DefaultDhSolver.groovy"
-    ],
-    "https://github.com/Tombert/elevatorattempt1.git:elevatorattempt1Cad.groovy": [
-      "https://github.com/Tombert/elevatorattempt1.git",
-      "elevatorattempt1Cad.groovy"
-    ],
     "https://github.com/Tombert/asdfasdf.git:asdfasdf.clj": [
       "https://github.com/Tombert/asdfasdf.git",
       "asdfasdf.clj"
-    ],
-    "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
-      "https://github.com/madhephaestus/carl-the-hexapod.git",
-      "ThreeDPrintCad.groovy"
-    ],
-    "https://github.com/Tombert/elevatorattempt1.git:elevatorattempt1.xml": [
-      "https://github.com/Tombert/elevatorattempt1.git",
-      "elevatorattempt1.xml"
     ]
   },
   "BowlerStudioConfigs": {
