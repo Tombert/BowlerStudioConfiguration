@@ -38,14 +38,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Tombert/asdfasdf.git:asdfasdf.clj": [
-      "https://github.com/Tombert/asdfasdf.git",
-      "asdfasdf.clj"
-    ],
-    "https://github.com/Tombert/arcadestick2.git:arcadestick2.clj": [
-      "https://github.com/Tombert/arcadestick2.git",
-      "arcadestick2.clj"
-    ],
     "https://github.com/Tombert/gear.git:gear.clj": [
       "https://github.com/Tombert/gear.git",
       "gear.clj"
